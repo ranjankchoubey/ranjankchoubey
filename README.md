@@ -2,7 +2,7 @@
 
 # Hey there! I'm Ranjan 👋
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ranjanchoubey.github.io-2563eb?style=for-the-badge)](https://ranjanchoubey.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ranjankchoubey.github.io-2563eb?style=for-the-badge)](https://ranjankchoubey.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjan-kumar-choubey-1704ab279/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjankumarchoubey999@gmail.com)
 
@@ -94,12 +94,12 @@ open_to: Data Engineering roles at product companies
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjanchoubey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanchoubey&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjankchoubey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjankchoubey&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanchoubey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjankchoubey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
 </div>
 
 ---
@@ -110,8 +110,8 @@ open_to: Data Engineering roles at product companies
 
 _Passionate about building data infrastructure that scales. Open to Data Engineering roles at product companies._
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ranjanchoubey.github.io-38BDF8?style=flat-square&logoColor=white)](https://ranjanchoubey.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ranjankchoubey.github.io-38BDF8?style=flat-square&logoColor=white)](https://ranjankchoubey.github.io)
 
-<img src="https://komarev.com/ghpvc/?username=ranjanchoubey&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ranjankchoubey&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile views" />
 
 </div>
