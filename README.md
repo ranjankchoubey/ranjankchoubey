@@ -67,6 +67,8 @@ open_to: Machine Learning Engineer | ML Platform roles in Bengaluru
 </p>
 <p>
   <img src="https://img.shields.io/badge/LLMs_%2F_RAG-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fine_tuning_(LoRA)-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agents_(LangGraph)-1C3C3C?style=flat-square" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
