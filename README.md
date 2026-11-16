@@ -27,7 +27,7 @@ currently_building:
   - Airflow DAGs with SLA monitoring & automated failure recovery
 also_building:
   - Notebook App — AI-powered note-taking (app.ranjankchoubey.com)
-  - PCGT — Graph Transformer research (M.Tech thesis)
+  - Subgraph-partitioned Graph Transformer (M.Tech dissertation, ISI Kolkata)
 teaching:
   - GATE DA Faculty at IMS Academy (Probability, Statistics, ML)
 open_to: Data Engineer | ML Engineer | Software Engineer roles at product companies
@@ -69,7 +69,7 @@ open_to: Data Engineer | ML Engineer | Software Engineer roles at product compan
 
 ### 🏢 Experience
 
-> **Data Engineer (Consultant)** @ [Deloitte](https://www.deloitte.com/) _(May 2025 – Present)_
+> **Consultant (Data Engineering)** @ [Deloitte](https://www.deloitte.com/) _(May 2025 – Present)_
 >
 > Client: **Walmart** — Enterprise Data Platform (Ingestion & Consumption Layer)
 
@@ -85,7 +85,7 @@ open_to: Data Engineer | ML Engineer | Software Engineer roles at product compan
 
 | Project | Description | Tech | Link |
 |---------|------------|------|------|
-| **PCGT** | Graph Transformer replacing O(N²) attention with partition-aware attention. Outperformed SGFormer on 10/12 benchmarks. | PyTorch, PyG, METIS | [GitHub](https://github.com/ranjanchoubey/PCGT) |
+| **M.Tech Dissertation** | Reduced Graph Transformer attention from O(N²) to O(K²) via METIS subgraph partitioning and supergraph attention. | PyTorch, PyG, METIS | [ISI Digital Commons](https://digitalcommons.isical.ac.in/masters-dissertations/426/) |
 | **Notebook App** | AI-powered note-taking app with rich editor, code blocks, math, drawing, PDF export. | Next.js, React, Firebase, Gemini | [Live](https://app.ranjankchoubey.com) · [GitHub](https://github.com/ranjankchoubey/notebook-app) |
 
 ---
