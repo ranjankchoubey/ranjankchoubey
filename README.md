@@ -22,11 +22,11 @@ education:
   - M.Tech CS (Data Science) — ISI Kolkata (AIR 11, AIR 1 EWS)
   - B.Tech IT — BIT Sindri (CGPA 8.89, Rank 1)
 ml_work:
-  - Day-ahead electricity trading forecast model, deployed (Tata Power)
+  - ARIMA + XGBoost generation and sales forecasts for day-ahead trading, deployed (Tata Power, Haldia plant)
   - XGBoost payment-default model, 77% → 85% (Allstate)
   - M.Tech dissertation: subgraph-partitioned Graph Transformer (ISI Kolkata)
 currently:
-  - Spark-Scala + Airflow pipelines on GCP feeding Walmart's planning & forecasting
+  - Walmart International: Spark-Scala data products for Enterprise Planning and order substitutions; markdown-reporting discovery
   - Notebook App — AI-powered note-taking (app.ranjankchoubey.com)
 teaching:
   - GATE DA (Probability, Statistics, ML) and a DSA interview course
@@ -71,7 +71,7 @@ open_to: Machine Learning Engineer | ML Platform roles in Bengaluru
 
 > **Consultant (Data Engineering)** @ [Deloitte](https://www.deloitte.com/) _(May 2025 – Present)_
 >
-> Client: **Walmart** — Unified Enterprise Planning (data feeds for planning & forecasting)
+> Client: **Walmart International** (since Jul 2025) — data ingestion, then Enterprise Planning, order-substitution and markdown-reporting data products
 
 > **Data Science Intern** @ [Allstate India](https://www.allstateindia.com/) _(May – Jul 2024)_
 
@@ -93,7 +93,7 @@ open_to: Machine Learning Engineer | ML Platform roles in Bengaluru
 
 <table>
 <tr>
-<td>📈 <b>Forecasting</b><br/>Tata Power IEX model</td>
+<td>📈 <b>Forecasting</b><br/>ARIMA + XGBoost at Tata Power</td>
 <td>🎯 <b>XGBoost</b><br/>77% → 85% at Allstate</td>
 <td>🏗 <b>100+ Tables</b><br/>SAP & Kafka → GCP</td>
 <td>🎓 <b>AIR 11</b><br/>ISI Kolkata M.Tech</td>
