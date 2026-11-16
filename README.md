@@ -23,7 +23,7 @@ education:
   - B.Tech IT — BIT Sindri (CGPA 8.89, Rank 1)
 ml_work:
   - ARIMA + XGBoost generation and sales forecasts for day-ahead trading, deployed (Tata Power, Haldia plant)
-  - XGBoost payment-default model, 77% → 85% (Allstate)
+  - XGBoost payment-default model with geographic features (Allstate)
   - M.Tech dissertation: subgraph-partitioned Graph Transformer (ISI Kolkata)
 currently:
   - Walmart International: Spark-Scala data products for Enterprise Planning and order substitutions; markdown-reporting discovery
@@ -94,7 +94,7 @@ open_to: Machine Learning Engineer | ML Platform roles in Bengaluru
 <table>
 <tr>
 <td>📈 <b>Forecasting</b><br/>ARIMA + XGBoost at Tata Power</td>
-<td>🎯 <b>XGBoost</b><br/>77% → 85% at Allstate</td>
+<td>🎯 <b>XGBoost</b><br/>Payment-default model at Allstate</td>
 <td>🏗 <b>100+ Tables</b><br/>SAP & Kafka → GCP</td>
 <td>🎓 <b>AIR 11</b><br/>ISI Kolkata M.Tech</td>
 </tr>
