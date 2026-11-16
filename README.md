@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjankchoubey/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjankumarchoubey999@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=ML+%26+Data+Systems+%7C+M.Tech+Data+Science%2C+ISI+Kolkata;Forecasting+%7C+XGBoost+%7C+Graph+Transformers;Spark+%7C+Airflow+%7C+GCP+pipelines+feeding+forecasting;Teaching+Prob%2FStats%2C+ML+%26+DSA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer+%7C+M.Tech+Data+Science%2C+ISI+Kolkata;Forecasting+%7C+XGBoost+%7C+Graph+Transformers;Spark+%7C+Airflow+%7C+GCP+pipelines+feeding+forecasting;Teaching+Prob%2FStats%2C+ML+%26+DSA" alt="Typing SVG" />
 
 </div>
 
@@ -81,9 +81,9 @@ open_to: Machine Learning Engineer | ML Platform roles in Bengaluru
 
 ### 🏢 Experience
 
-> **Consultant (Data Engineering)** @ [Deloitte](https://www.deloitte.com/) _(May 2025 – Present)_
+> **Consultant** @ [Deloitte](https://www.deloitte.com/) _(May 2025 – Present)_
 >
-> Client: **Walmart International** (since Jul 2025) — data ingestion, then Enterprise Planning, order-substitution and markdown-reporting data products
+> Client: **Walmart International** (since Jul 2025) — Spark-Scala data products on GCP for Enterprise Planning, order substitutions and markdown reporting
 
 > **Data Science Intern** @ [Allstate India](https://www.allstateindia.com/) _(May – Jul 2024)_
 
