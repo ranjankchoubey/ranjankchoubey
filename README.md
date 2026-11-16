@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjan-kumar-choubey-1704ab279/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjankumarchoubey999@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Data+Engineer+at+Deloitte+%28Walmart%29;Spark-Scala+%7C+Airflow+%7C+BigQuery+%7C+Kafka+on+GCP;M.Tech+ISI+Kolkata+%7C+AIR+11;Building+Full-Stack+Apps+%26+Graph+Transformers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=ML+%26+Data+Systems+%7C+M.Tech+Data+Science%2C+ISI+Kolkata;Forecasting+%7C+XGBoost+%7C+Graph+Transformers;Spark+%7C+Airflow+%7C+GCP+pipelines+feeding+forecasting;Teaching+Prob%2FStats%2C+ML+%26+DSA" alt="Typing SVG" />
 
 </div>
 
@@ -16,21 +16,21 @@
 
 ```yaml
 name: Ranjan Kumar Choubey
-role: Data Engineer @ Deloitte (Client: Walmart)
+role: Consultant @ Deloitte (Client: Walmart)
 location: Bengaluru, India
 education:
   - M.Tech CS (Data Science) — ISI Kolkata (AIR 11, AIR 1 EWS)
   - B.Tech IT — BIT Sindri (CGPA 8.89, Rank 1)
-currently_building:
-  - Consumption layer pipelines in Spark-Scala for Walmart's enterprise data platform
-  - Ingestion from 100+ SAP tables and Kafka brokers into GCS/BigQuery
-  - Airflow DAGs with SLA monitoring & automated failure recovery
-also_building:
+ml_work:
+  - Day-ahead electricity trading forecast model, deployed (Tata Power)
+  - XGBoost payment-default model, 77% → 85% (Allstate)
+  - M.Tech dissertation: subgraph-partitioned Graph Transformer (ISI Kolkata)
+currently:
+  - Spark-Scala + Airflow pipelines on GCP feeding Walmart's planning & forecasting
   - Notebook App — AI-powered note-taking (app.ranjankchoubey.com)
-  - Subgraph-partitioned Graph Transformer (M.Tech dissertation, ISI Kolkata)
 teaching:
-  - GATE DA Faculty at IMS Academy (Probability, Statistics, ML)
-open_to: Data Engineer | ML Engineer | Software Engineer roles at product companies
+  - GATE DA (Probability, Statistics, ML) and a DSA interview course
+open_to: Machine Learning Engineer | ML Platform roles in Bengaluru
 ```
 
 ---
@@ -71,13 +71,11 @@ open_to: Data Engineer | ML Engineer | Software Engineer roles at product compan
 
 > **Consultant (Data Engineering)** @ [Deloitte](https://www.deloitte.com/) _(May 2025 – Present)_
 >
-> Client: **Walmart** — Enterprise Data Platform (Ingestion & Consumption Layer)
+> Client: **Walmart** — Unified Enterprise Planning (data feeds for planning & forecasting)
 
 > **Data Science Intern** @ [Allstate India](https://www.allstateindia.com/) _(May – Jul 2024)_
 
-> **Lead Engineer** @ [Tata Power](https://www.tatapower.com/) _(Sep 2022 – Aug 2023)_
-
-> **Graduate Engineer Trainee** @ [Tata Power](https://www.tatapower.com/) _(Aug 2021 – Sep 2022)_
+> **Lead Engineer - ICT** @ [Tata Power](https://www.tatapower.com/) _(Sep 2021 – Jul 2023; joined as Graduate Engineer Trainee)_
 
 ---
 
@@ -87,6 +85,7 @@ open_to: Data Engineer | ML Engineer | Software Engineer roles at product compan
 |---------|------------|------|------|
 | **M.Tech Dissertation** | Reduced Graph Transformer attention from O(N²) to O(K²) via METIS subgraph partitioning and supergraph attention. | PyTorch, PyG, METIS | [ISI Digital Commons](https://digitalcommons.isical.ac.in/masters-dissertations/426/) |
 | **Notebook App** | AI-powered note-taking app with rich editor, code blocks, math, drawing, PDF export. | Next.js, React, Firebase, Gemini | [Live](https://app.ranjankchoubey.com) · [GitHub](https://github.com/ranjankchoubey/notebook-app) |
+| **DSA-30-Problems** | Teaching repo: 30 interview problems in Python, each with a step-by-step prerequisite ladder and notes. | Python | [GitHub](https://github.com/ranjankchoubey/DSA-30-Problems) |
 
 ---
 
@@ -94,10 +93,10 @@ open_to: Data Engineer | ML Engineer | Software Engineer roles at product compan
 
 <table>
 <tr>
-<td>🏗 <b>100+ Tables</b><br/>SAP & Kafka → BigQuery</td>
-<td>⚡ <b>Spark-Scala</b><br/>Consumption layer owner</td>
-<td>🔄 <b>Airflow DAGs</b><br/>Production orchestration</td>
-<td>📈 <b>AIR 11</b><br/>ISI Kolkata M.Tech</td>
+<td>📈 <b>Forecasting</b><br/>Tata Power IEX model</td>
+<td>🎯 <b>XGBoost</b><br/>77% → 85% at Allstate</td>
+<td>🏗 <b>100+ Tables</b><br/>SAP & Kafka → GCP</td>
+<td>🎓 <b>AIR 11</b><br/>ISI Kolkata M.Tech</td>
 </tr>
 </table>
 
@@ -116,7 +115,7 @@ open_to: Data Engineer | ML Engineer | Software Engineer roles at product compan
 
 ### 🤝 Let's Connect
 
-_Open to Data Engineer, ML Engineer, and Software Engineer roles at product companies._
+_Open to Machine Learning Engineer and ML Platform roles in Bengaluru._
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ranjankchoubey.com-38BDF8?style=flat-square&logoColor=white)](https://ranjankchoubey.com)
 [![Notebook App](https://img.shields.io/badge/Notebook_App-app.ranjankchoubey.com-10B981?style=flat-square&logoColor=white)](https://app.ranjankchoubey.com)
