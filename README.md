@@ -28,6 +28,7 @@ ml_work:
 currently:
   - Walmart International: Spark-Scala data products for Enterprise Planning and order substitutions; markdown-reporting discovery
   - Notebook App — AI-powered note-taking (app.ranjankchoubey.com)
+  - Building: RAG-based GATE DA tutor — retrieval, LLM answers with citations, evaluation (MLflow, Docker, GCP)
 teaching:
   - GATE DA (Probability, Statistics, ML); designed a 30-problem DSA interview course
 open_to: Machine Learning Engineer | ML Platform roles in Bengaluru
@@ -63,6 +64,15 @@ open_to: Machine Learning Engineer | ML Platform roles in Bengaluru
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Dataproc-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-0f172a?style=flat-square" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LLMs_%2F_RAG-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
