@@ -29,7 +29,7 @@ currently:
   - Walmart International: Spark-Scala data products for Enterprise Planning and order substitutions; markdown-reporting discovery
   - Notebook App — AI-powered note-taking (app.ranjankchoubey.com)
 teaching:
-  - GATE DA (Probability, Statistics, ML) and a DSA interview course
+  - GATE DA (Probability, Statistics, ML); designed a 30-problem DSA interview course
 open_to: Machine Learning Engineer | ML Platform roles in Bengaluru
 ```
 
